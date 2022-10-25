@@ -20,7 +20,7 @@ React.js front end
 Node.js back end with better-sqlite3 for a sql database.
 
 
-#Instructions
+# Instructions
 
 1. git clone this repo
 2. cd front-end
