@@ -2,8 +2,6 @@
 
 [User Instructions](#Instructions)
 
-# Foo
-
 ## Requirements
 
 Build a web App based on the picture below, contain input fields for the fields (name, city, year).
