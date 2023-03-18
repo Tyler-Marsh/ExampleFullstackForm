@@ -24,6 +24,6 @@ Node.js back end with better-sqlite3 for a sql database.
 2. cd front-end
 3. npm i
 4. npm start
-5. cd ../back-enmd
+5. cd ../back-end
 6. npm i
 7. npm start
